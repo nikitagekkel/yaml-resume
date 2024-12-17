@@ -1,0 +1,38 @@
+categories:
+  - &lang
+    Languages
+  - &db
+    Databases
+
+skills:
+- name: C++
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: Python
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: MongoDB
+  level: junior
+  category: *db
+  labels:
+    - databases
+- name: Docker
+  level: junior
+  labels:
+    - tools
+    - technology
+  category: *containers
+- name: Docker-compose
+  level: junior
+  category: *containers
+  labels:
+    - tools
+- name: GitLab
+  level: Junior
+  category: *cicd
+  labels:
+    - tools

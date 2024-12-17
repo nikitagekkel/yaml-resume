@@ -1,0 +1,14 @@
+details:
+  first_name: Gekkel
+  last_name: Nikita
+  title: C++ Developer
+
+profile: |
+  Motivated and focused junior developer, aspiring to gain knowledge and skills in development and IT.
+
+contact:
+  - text: nikitagekkel@mail.ru
+    url: "mailto:nikitagekkel@mail.ru"
+    icon: email
+
+technical: []
